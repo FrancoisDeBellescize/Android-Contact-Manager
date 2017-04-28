@@ -12,7 +12,7 @@ A `FloatingActionButton` to add a Contact. This kind of button is used in a lot 
 
 A `ListView` to display all the contacts. This widget is a good option to display a lot of informations/objects and we can handle a click on each lines.
 
-![ContextMenu]()
+![ContextMenu](https://s12.postimg.org/42cgjz7el/Context_Menu.png)
 
 
 ### Variables

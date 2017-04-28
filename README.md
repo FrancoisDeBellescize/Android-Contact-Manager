@@ -6,13 +6,13 @@
 
 For the MainActivity Template, i'm using the default `RelativeLayout`.
 
-![MainActivity](/MainActivity.png)
+![MainActivity](https://s21.postimg.org/7bdqqpjrb/Main_Activity.png)
 
 A `FloatingActionButton` to add a Contact. This kind of button is used in a lot of apps and in general, it's used to create or add something like emails for example.
 
 A `ListView` to display all the contacts. This widget is a good option to display a lot of informations/objects and we can handle a click on each lines.
 
-![ContextMenu](/ContextMenu.png)
+![ContextMenu]()
 
 
 ### Variables
@@ -65,7 +65,7 @@ This is used to handle the click on the `FloatingActionButton`. It will start th
 
 For the `ViewActivity`, i'm using only four `TextView` to display informations.
 
-![ViewActivity](/ViewActivity.png)
+![ViewActivity](https://s21.postimg.org/quic02iiv/View_Activity.png)
 
 ### Variables
 
@@ -111,7 +111,7 @@ And set the `TextViews` :
 
 I'm using four `EditTexts` in the `EditActivity` to be able to modify the informations of the contact. A simply button Save to save theses informations.
 
-![EditActivity](/EditActivity.png)
+![EditActivity](https://s21.postimg.org/n8cinfc5j/Edit_Activity.png)
 
 ### Variables
 
